@@ -5,8 +5,7 @@
 - 🌱 I’m currently pursuing my Master's in Computer Science in Purdue University
   
 - 📫 How to reach me -
-     [<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/shreyasbedekar24/) [<img src="https://www.google.com/images/icons/product/gmail-32.png" alt="Gmail" width="20" height="20">](mailto:2012shreyasbedekar@gmail.com)
-
+     [<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/shreyasbedekar24/) [Gmail](mailto:2012shreyasbedekar@gmail.com)
 - ⚡ Fun fact: I can solve a Rubik's cube in under two minutes!
 
 <!---
